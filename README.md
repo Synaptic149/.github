@@ -33,6 +33,7 @@ Material You Mastodon/Akkoma/Pleroma client.
 
 ## Libraries
 
-- [partial-kt](https://github.com/MateriiApps/partial-kt) – Kotlin KSP plugin for generating partial class variants
-- [panels](https://github.com/MateriiApps/panels) – M3 Discord-like compose panels
-- \[WIP] [compose-custom-tabs](https://github.com/MateriiApps/compose-custom-tabs) – M3 Chrome custom tabs
+- [partial-kt](https://github.com/MateriiApps/partial-kt) – Kotlin KSP plugin for generating partial class variants.
+- [panels](https://github.com/MateriiApps/panels) – M3 Discord-like compose panels.
+- [pullrefresh](https://github.com/MateriiApps/pullrefresh) – Standalone pull to refresh library for Jetpack Compose multiplatform.
+- \[WIP] [compose-custom-tabs](https://github.com/MateriiApps/compose-custom-tabs) – M3 Chrome custom tabs.
