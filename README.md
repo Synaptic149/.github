@@ -11,12 +11,6 @@ A Material You GitHub Mobile client.
 ![Debug build status](https://img.shields.io/github/actions/workflow/status/MateriiApps/Gloom/android.yml?label=Debug%20Build&logo=github&style=for-the-badge&branch=main)
 [![GPL3](https://img.shields.io/badge/License-GPL3-blue?style=for-the-badge)](https://github.com/MateriiApps/Gloom/blob/main/LICENSE)
 
-### [Upvote](https://github.com/MateriiApps/Upvote) \[WIP]
-A customizable Reddit client, unbound by the API.
-
-![GitHub Repo stars](https://img.shields.io/github/stars/MateriiApps/Upvote?style=for-the-badge&logo=github&label=Stars)
-[![GPL3](https://img.shields.io/badge/License-GPL3-blue?style=for-the-badge)](https://github.com/MateriiApps/Upvote/blob/master/LICENSE)
-
 ### [OpenCord](https://github.com/MateriiApps/OpenCord) \[WIP]
 An open-source Material You implementation of the Discord Android app.
 
